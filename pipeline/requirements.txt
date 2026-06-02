@@ -1,0 +1,4 @@
+trimesh[easy]
+plyfile
+Pillow
+numpy
