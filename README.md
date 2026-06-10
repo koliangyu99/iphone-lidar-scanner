@@ -27,7 +27,7 @@ No special hardware. No cloud upload. Just the LiDAR sensor already in your pock
       <img src="assets/demo_white_mesh.gif" width="100%" alt="ARKit classified mesh rotating"/>
     </td>
     <td align="center">
-      <img src="assets/demo_textured_mesh.gif" width="100%" alt="Photo-textured mesh rotating"/>
+      <img src="assets/demo_textured_mesh.gif" width="80%" alt="Photo-textured mesh rotating"/>
     </td>
   </tr>
 </table>
